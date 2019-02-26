@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MVPLibrary">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVPLibrary</output-path>
+    <root id="archive" name="MVPLibrary.jar">
+      <element id="module-output" name="MyMVPLibrary" />
+    </root>
+  </artifact>
+</component>
